@@ -5,6 +5,8 @@ import FAQSection from '@/components/FAQSection';
 import ContactOptions from '@/components/ContactOptions';
 import Footer from '@/components/Footer';
 import PopularArticles from '@/components/PopularArticles';
+import LearnSection from '@/components/LearnSection';
+import CommunitySection from '@/components/CommunitySection';
 import FloatingChatButton from '@/components/FloatingChatButton';
 
 export default function Home() {
@@ -13,7 +15,9 @@ export default function Home() {
       <Header />
       <Hero />
       <TopicsGrid />
+      <LearnSection />
       <PopularArticles />
+      <CommunitySection />
       <FAQSection />
       <ContactOptions />
       <Footer />

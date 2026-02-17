@@ -7,7 +7,6 @@ import Footer from '@/components/Footer';
 import PopularArticles from '@/components/PopularArticles';
 import LearnSection from '@/components/LearnSection';
 import CommunitySection from '@/components/CommunitySection';
-import FloatingChatButton from '@/components/FloatingChatButton';
 
 export default function Home() {
   return (
@@ -21,7 +20,6 @@ export default function Home() {
       <FAQSection />
       <ContactOptions />
       <Footer />
-      <FloatingChatButton />
     </main>
   );
 }

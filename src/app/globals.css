@@ -16,3 +16,11 @@ body {
   color: var(--coinbase-dark);
   background: #ffffff;
 }
+
+/* Default Chatway launcher is now visible */
+
+/* Ensure widget iframe is on top when open */
+iframe[title="Chatway"],
+.chatway--container {
+  z-index: 9999 !important;
+}

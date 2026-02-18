@@ -12,7 +12,7 @@ const Footer = () => {
                 </div>
 
                 <p className="text-xs text-gray-400 max-w-lg leading-relaxed">
-                    © 2024 Coinbase. All rights reserved. Coinbase is a registered trademark of Coinbase, Inc.
+                    © 2026 Coinbase. All rights reserved. Coinbase is a registered trademark of Coinbase, Inc.
                     <br />
                     NMLS ID: 1163016
                 </p>

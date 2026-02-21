@@ -13,7 +13,7 @@ const ChatwayWidget = () => {
             const script = document.createElement('script');
             script.id = scriptId;
             script.async = true;
-            script.src = "https://cdn.chatway.app/widget.js?id=qUzq7sSoeT1Q";
+            script.src = "https://cdn.chatway.app/widget.js?id=qGJAW3KOPrGA";
 
             // Add error handling
             script.onerror = (e) => {
